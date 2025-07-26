@@ -1,0 +1,41 @@
+body{
+    background-color: #f0f8ff;
+   
+}
+#h1{
+padding: 10px;
+}
+.heading1{
+    border: 1px solid black;
+    width: 70%;
+    height: 35vh;
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+
+   
+ 
+}
+#para1{
+   
+}
+.heading2{
+    border: 1px  dashed red;
+    width: 70%;
+    height: 30vh;
+    background-color: white;
+    padding: 10px;
+    color: red;
+       margin: 20px;
+}
+.heading3{
+    border: 1px  solid black;
+    width: 70%;
+    height: 30vh;
+    background-color: white;
+    padding: 10px;
+  
+       margin: 20px;
+}
+.mark1{
+    background-color:#d8ae7d;}

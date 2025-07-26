@@ -1,0 +1,28 @@
+.container span {
+    display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  width: 20px;
+  height: 20px;
+
+}
+#num1,#num3,#num5,#num7,#num9{
+    background-color: red;
+}
+#num2,#num4,#num6,#num8,#num10{
+    background-color: blue;
+}
+#num1,#num2,#num3{
+    font-size: 15px;
+}
+#num7{
+    color: white;
+}
+#num4,#num5,#num6,#num7,#num8,#num9,#num10{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
